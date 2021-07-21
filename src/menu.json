@@ -1,0 +1,234 @@
+[
+    {
+      "id": "4kcowlqdz6c7bqjgi8",
+      "name": "Air",
+      "description": "Air yang mengandung mineral atau bahan-bahan larut lain.",
+      "picture": "./public/images/menu/air.jpg",
+      "time": "10",
+      "rating": 4.8
+    },
+    {
+      "id": "uckcowlqdzljx8i0qu2",
+      "name": "Bebek crepes",
+      "description": "Daging bebek asap yang dapat menjadi alternatif dari Bebek Peking.",
+      "picture": "./public/images/menu/bebek-crepes.jpg",
+      "time": "20",
+      "rating": 4.6
+    },
+    {
+      "id": "ddkcowlqdzfe8bbxoaz",
+      "name": "Coklat panas",
+      "description": "Minuman panas yang dibuat dari cokelat atau kakao bubuk dan gula.",
+      "picture": "./public/images/menu/coklat-panas.jpg",
+      "time": "8",
+      "rating": 3.9
+    },
+    {
+      "id": "68kcowlqdzik1zljmlf",
+      "name": "Daging sapi",
+      "description": "Medium Well Beef steak dengan rosemary menyajikan daging empuk dan juicy.",
+      "picture": "./public/images/menu/daging-sapi.jpg",
+      "time": "20",
+      "rating": 4.5
+    },
+    {
+      "id": "6jkcowlqdz9jpuzkm6n",
+      "name": "Es kopi",
+      "description": "Minuman kopi yang disajikan dingin atau ditambah es batu.",
+      "picture": "./public/images/menu/es-kopi.jpg",
+      "time": "11",
+      "rating": 3.3
+    },
+    {
+      "id": "lqdzcpkkcowl5jpsnuq",
+      "name": "Es krim",
+      "description": "Makanan beku dibuat dari produk susu seperti krim.",
+      "picture": "./public/images/menu/es-krim.jpg",
+      "time": "9",
+      "rating": 3.7
+    },
+    {
+      "id": "cowlqkkdzsnuqcpl5jp",
+      "name": "Es teh",
+      "description": "Minuman yang sering diminum saat siang hari.",
+      "picture": "./public/images/menu/es-teh.jpg",
+      "time": "4",
+      "rating": 2.9
+    },
+    {
+      "id": "kjpskcowcpl5nulqdzq",
+      "name": "Ikan teri dan roti",
+      "description": "Olahan ikan teri yang memadukan rasa asin dan gurih.",
+      "picture": "./public/images/menu/ikan-teri-dan-roti.jpg",
+      "time": "15",
+      "rating": 3.6
+    },
+    {
+      "id": "kkqdsnucowzcpl5jplq",
+      "name": "Jus alpukat",
+      "description": "Mengandung lemak tak jenuh sehingga aman untuk dikonsumsi secara rutin.",
+      "picture": "./public/images/menu/jus-alpukat.jpg",
+      "time": "8",
+      "rating": 4.1
+    },
+    {
+      "id": "kklqdzcpl5jpscownuq",
+      "name": "Jus apel",
+      "description": "Mengandung senyawa antiradang dan antialergi.",
+      "picture": "./public/images/menu/jus-apel.jpg",
+      "time": "6",
+      "rating": 4.2
+    },
+    {
+      "id": "wlkkczc5jpsnoqdpluq",
+      "name": "Jus jeruk",
+      "description": "Sari buah yang diperoleh dengan memeras atau menekan isi buah jeruk.",
+      "picture": "./public/images/menu/jus-jeruk.jpg",
+      "time": "6",
+      "rating": 4.5
+    },
+    {
+      "id": "pl5jkkczwlqdncpsouq",
+      "name": "Jus mangga",
+      "description": "Jus mangga bisa membantu mencapai tubuh ideal kamu.",
+      "picture": "./public/images/menu/jus-mangga.jpg",
+      "time": "6",
+      "rating": 4.2
+    },
+    {
+      "id": "kjpsnqdzkcol5uqwlcp",
+      "name": "Jus tomat",
+      "description": "Jus tomat mengandung senyawa bioaktif yang berperan sebagai antioksidan.",
+      "picture": "./public/images/menu/jus-tomat.jpg",
+      "time": "6",
+      "rating": 4.2
+    },
+    {
+      "id": "kwlckcopsnuqqpl5jdz",
+      "name": "Kari kacang dan telur",
+      "description": "Mempunyai aroma dan rasa yang dapat memancing selera kita.",
+      "picture": "./public/images/menu/kari-kacang-dan-telur.jpg",
+      "time": "12",
+      "rating": 4.2
+    },
+    {
+      "id": "kkc5jpzcplwlqsnuodq",
+      "name": "Kari terong",
+      "description": "Lembutnya daging terong yang mengandung vitamin E sebagai antioksidan.",
+      "picture": "./public/images/menu/kari-terong.jpg",
+      "time": "15",
+      "rating": 3.8
+    },
+    {
+      "id": "kcplqsnuowlkdz5jpcq",
+      "name": "Kopi espresso",
+      "description": "Minuman yang dihasilkan dengan mengekstraksi biji kopi.",
+      "picture": "./public/images/menu/kopi-espresso.jpg",
+      "time": "10",
+      "rating": 4.0
+    },
+    {
+      "id": "cpl5jpslqdzcuqnokkw",
+      "name": "Matzo farfel",
+      "description": "Simply crumbled matzo. It's not finely ground, but closer to the size.",
+      "picture": "./public/images/menu/kopi-espresso.jpg",
+      "time": "18",
+      "rating": 4.8
+    },
+    {
+      "id": "kwlcplkc5jpoqdzsnuq",
+      "name": "Minuman soda",
+      "description": "Minuman tidak memiliki kandungan alkohol yang mengalami proses karbonasi.",
+      "picture": "./public/images/menu/minuman-soda.jpg",
+      "time": "2",
+      "rating": 4.2
+    },
+    {
+      "id": "kwklqdcpozcsnul5jpq",
+      "name": "Napolitana",
+      "description": "Aprende a preparar Berenjenas napolitanas al horno con esta rica y fácil receta.",
+      "picture": "./public/images/menu/napolitana.jpg",
+      "time": "16",
+      "rating": 4.8
+    },
+    {
+      "id": "cowlqd4kz6jgic7bq8",
+      "name": "Paket rosemary",
+      "description": "Rempah yang berasal dari Mediterania ini sangat cocok ditambahkan pada olahan daging sapi, ayam.",
+      "picture": "./public/images/menu/paket-rosemary.jpg",
+      "time": "13",
+      "rating": 3.6
+    },
+    {
+      "id": "cz6jowlqd4kgic7bq8",
+      "name": "roket penne",
+      "description": "Enjoy a simple and delicious chicken penne infused with chilli and peppery rocket.",
+      "picture": "./public/images/menu/roket-penne.jpg",
+      "time": "15",
+      "rating": 3.8
+    },
+    {
+      "id": "kklqdzcpl5cowjpsnuq",
+      "name": "Salad lengkeng",
+      "description": "Makanan yang dihidangkan bersama dressing (sauce) dengan lengkeng melimpah.",
+      "picture": "./public/images/menu/salad-lengkeng.jpg",
+      "time": "10",
+      "rating": 3.8
+    },
+    {
+      "id": "kkdzcpl5ucowljpsnqq",
+      "name": "Salad yuzu",
+      "description": "Finely grate the peel of the yuzu, or other citrus fruit.",
+      "picture": "./public/images/menu/salad-yuzu.jpg",
+      "time": "8",
+      "rating": 3.6
+    },
+    {
+      "id": "klkcownpl5qdzcjpsuq",
+      "name": "Sirup",
+      "description": "Cairan yang kental dan memiliki kadar gula terlarut yang tinggi.",
+      "picture": "./public/images/menu/sirup.jpg",
+      "time": "4",
+      "rating": 3.5
+    },
+    {
+      "id": "kpl5jpkcoqdzcwlsnuq",
+      "name": "Sosis squash dan mint",
+      "description": "Makanan yang terbuat dari daging cincang, lemak hewan, ternak dan rempah.",
+      "picture": "./public/images/menu/sosis-squash-dan-mint.jpg",
+      "time": "8",
+      "rating": 4.0
+    },
+    {
+      "id": "kl5jpowlkcdzcpqsnuq",
+      "name": "Sup Kohlrabi",
+      "description": "Signature sweet-but-peppery flavor profile, with a taste.",
+      "picture": "./public/images/menu/sup-kohlrabi.jpg",
+      "time": "12",
+      "rating": 3.7
+    },
+    {
+      "id": "kk5jpsncodzcplwlquq",
+      "name": "Teh manis",
+      "description": "Minuman yang terbuat dari larutan teh yang diberi pemanis.",
+      "picture": "./public/images/menu/teh-manis.jpg",
+      "time": "5",
+      "rating": 4.4
+    },
+    {
+      "id": "kkpl5jpscoqdzcwlnuq",
+      "name": "Toastie salmon",
+      "description": "Get your seafood fix with these super easy salmon and cheese toasties.",
+      "picture": "./public/images/menu/toastie-salmon.jpg",
+      "time": "10",
+      "rating": 4.6
+    },
+    {
+      "id": "kl5jpkcqdzcpowlsnuq",
+      "name": "Tumis leek",
+      "description": "Combines tender marinated flank steak with onions and leek greens.",
+      "picture": "./public/images/menu/tumis-leek.jpg",
+      "time": "8",
+      "rating": 4.1
+    }
+  ]

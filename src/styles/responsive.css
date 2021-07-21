@@ -1,0 +1,94 @@
+@media screen and (min-width: 650px) {
+	.app-bar {
+		grid-template-columns: 1fr auto;
+		padding: 8px 32px;
+	}
+
+	.app-bar .app-bar__menu {
+		display: none;
+	}
+
+	.app-bar .app-bar__navigation {
+		position: static;
+		width: 100%;
+	}
+
+	.app-bar .app-bar__navigation ul li {
+		display: inline-block;
+	}
+
+	.app-bar .app-bar__navigation ul li a {
+		display: inline-block;
+		width: 120px;
+		text-align: center;
+		margin: 0;
+		height: 44px;
+	}
+
+	/* .main-hero {
+		display: flex;
+		align-items: center;
+		min-height: 350px;
+		text-align: center;
+		background-image: url('../public/images/hero/hero-image-small.jpg');
+		background-position: center;
+	} */
+}
+
+@media screen and (min-width: 700px) {
+	/* .main-hero {
+		display: flex;
+		align-items: center;
+		min-height: 350px;
+		text-align: center;
+		background-image: url('../public/images/hero/hero-image-large.jpg');
+		background-position: center;
+	} */
+
+	.main-content,
+	.foods,
+	.drinks,
+	.review {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		grid-column-gap: 16px;
+		grid-row-gap: 16px;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.header-resto .main .main-header {
+		display: grid;
+		grid-template-columns: 2fr 2fr;
+	}
+
+	.detail-ovw-image {
+		display: flex;
+		height: 350px;
+	}
+
+	.detail-ovw-info {
+		margin-top: 0;
+		margin-left: 2.5rem;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.main {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
+	.main-content,
+	.foods,
+	.drinks,
+	.review {
+		grid-template-columns: repeat(3, 1fr);
+		grid-column-gap: 26px;
+		grid-row-gap: 26px;
+	}
+
+	.detail-header-title {
+		margin-left: 0.175rem;
+	}
+}
