@@ -22,8 +22,8 @@ Scenario('Liking one restaurant', async ({ I }) => {
   I.seeElement('.card');
   I.seeElement('.card-title');
 
-  const firstResto = locate('.card').first();
-  const firstRestoTitle = await I.grabTextFrom('.card-title');
+  const firstResto = locate('.card-title a').first();
+  const firstRestoTitle = await I.grabTextFrom(firstResto);
 
   I.click(firstResto);
 
@@ -50,8 +50,8 @@ Scenario('UnLiking one restaurant', async ({ I }) => {
   I.seeElement('.card');
   I.seeElement('.card-title');
 
-  const firstResto = locate('.card').first();
-  const firstRestoTitle = await I.grabTextFrom('.card-title');
+  const firstResto = locate('.card-title a').first();
+  const firstRestoTitle = await I.grabTextFrom(firstResto);
 
   I.click(firstResto);
 
@@ -63,12 +63,14 @@ Scenario('UnLiking one restaurant', async ({ I }) => {
   I.seeElement('.card');
   I.seeElement('.card-title');
 
-  const likeResto = locate('.card').first();
-  const likeRestoTitle = await I.grabTextFrom('.card-title');
+  const likeResto = locate('.card-title a').first();
+  const likeRestoTitle = await I.grabTextFrom(likeResto);
 
   assert.strictEqual(firstRestoTitle, likeRestoTitle);
 
   I.click(likeResto);
+  I.seeElement('#likeButton');
+  I.click('#likeButton');
 
   I.amOnPage('/#/favorite');
   I.seeElement('.resto-empty-label');
